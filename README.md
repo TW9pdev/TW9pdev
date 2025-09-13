@@ -21,6 +21,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=TW9pdev&theme=tokyonight&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TW9pdev&layout=compact&theme=tokyonight)
 
+### 🏆 GitHub Trophies:
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=TW9pdev&theme=tokyonight&row=1&column=6)
+
 ### ✍️ Random Quote:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
