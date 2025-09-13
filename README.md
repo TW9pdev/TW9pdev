@@ -15,9 +15,13 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
 
 
-### Stats:
+### 📊 Stats:
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=TW9pdev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TW9pdev&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=TW9pdev&theme=tokyonight&hide_border=true)
 ![Visitors](https://komarev.com/ghpvc/?username=TW9pdev&color=blue)
+
+### ✍️ Random Quote:
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
