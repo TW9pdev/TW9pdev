@@ -18,9 +18,8 @@
 ### 📊 Stats:
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=TW9pdev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TW9pdev&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=TW9pdev&theme=tokyonight&hide_border=true)
-![Visitors](https://komarev.com/ghpvc/?username=TW9pdev&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TW9pdev&layout=compact&theme=tokyonight)
 
 ### ✍️ Random Quote:
 
