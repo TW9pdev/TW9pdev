@@ -1,12 +1,14 @@
-# 💫 About Me:
+#  About Me:
 
--🖥️Dev
+-Dev
 
--🎮Games
+-3DS modder
 
--🎬Editing Videos
+-Games
 
--♟️Chess
+-Editing Videos
+
+-Chess
 
 #  🖥️ Teck Stack:
 
